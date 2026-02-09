@@ -99,9 +99,6 @@ Ratkin are used to highlight infrastructural blind spots, vertical social assump
 Their integration is meant to feel so complete that characters are often surprised not by their existence, but by how much they rely on them.
 
 > Written with [StackEdit](https://stackedit.io/).
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjU2ODg0MV19
+eyJoaXN0b3J5IjpbMTUzOTkwNDMxLC02MzI1Njg4NDFdfQ==
 -->
