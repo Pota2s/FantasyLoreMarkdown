@@ -70,9 +70,6 @@ Other regions treat Emergent Persons with discomfort, curiosity, or formality. C
 Emergent Persons are intended to explore themes of identity without continuity, birth without childhood, and care without ownership. They are not meant to undermine the finality of death, but to examine how societies respond when new people appear in unexpected ways.
 
 > Written with [StackEdit](https://stackedit.io/).
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3NzI5NDAzXX0=
+eyJoaXN0b3J5IjpbLTIxMDQ1OTE4MzcsODg3NzI5NDAzXX0=
 -->
