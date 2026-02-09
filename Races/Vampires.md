@@ -35,11 +35,7 @@ Vampires are subject to the same laws as other citizens. Their power does not gr
 **Narrative Notes**  
 Vampires in this setting are intended to explore themes of power asymmetry, consent, overcorrection, and institutional learning. Humor often arises from vampires engaging with bureaucracy more rigorously than required, particularly regarding consent and liability.
 
-
-> Written with [StackEdit](https://stackedit.io/).
-
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTczMzQ3N119
+eyJoaXN0b3J5IjpbMzEyMDA4NDc5LDE2Mjk3MzM0NzddfQ==
 -->
