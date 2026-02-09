@@ -51,9 +51,8 @@ Casual references to lunar scheduling (“oh, it’s a full moon tonight”) are
 **Narrative Notes**  
 Werewolves are used to explore themes of biological pressure, responsibility, accommodation versus exploitation, and institutional trust. Humor often arises from mundane scheduling conflicts, workplace overconfidence (“it’ll be fine, it’s a full moon”), and the normalization of something that outsiders expect to be dramatic.
 
-Test
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzI1MDU0NywtMjI2MjcxNzkzXX0=
+eyJoaXN0b3J5IjpbOTM5NTk0NTA1LDE4MTcyNTA1NDcsLTIyNj
+I3MTc5M119
 -->
